@@ -1,6 +1,6 @@
 # Welcome to the AI Curious Minds Community GitHub! 🌟
 
-[AI Curious Minds](https://github.com/aicuriousminds/SPARTANS/blob/003ed5393ece1f797251eb88afd4b240a955cafb/General/Images/Cover/AI_Curious_Minds_Flag.png)
+[AI Curious Minds](Resources/Images/Cover/AI_Curious_Minds_Flag.png)
 
 ## 🇮🇳🇨🇷🇭🇰🇵🇪🇬🇧🇦🇫🇵🇰🇨🇦🇮🇪🇳🇱🇮🇷🇸🇬🇲🇾
 
