@@ -1,4 +1,4 @@
-![AI Curious Minds](https://github.com/aicuriousminds/SPARTANS/blob/c91a9a7e588e5c6480983eecefe8fce23b90c90e/General/Images/Cover/AI_Curious_Minds_Cover.jpg)
+![AI Curious Minds](https://github.com/aicuriousminds/SPARTANS/blob/c3bab0c1bb890017b2ac6b2d1b462525deddeca1/General/Images/Cover/Cover_Linkedin_AICM-v1.1.4.png)
 
 # Welcome to the AI Curious Minds Community GitHub! 🌟
 
