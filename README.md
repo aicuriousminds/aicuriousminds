@@ -1,4 +1,4 @@
-![AI Curious Minds](Resources/Images/Cover/AI_Curious_Minds_Flag.png)
+![AI Curious Minds](https://github.com/aicuriousminds/SPARTANS/blob/c91a9a7e588e5c6480983eecefe8fce23b90c90e/General/Images/Cover/AI_Curious_Minds_Cover.jpg)
 
 # Welcome to the AI Curious Minds Community GitHub! 🌟
 
