@@ -4,7 +4,7 @@
 
 ## 🇮🇳🇨🇷🇭🇰🇵🇪🇬🇧🇦🇫🇵🇰🇨🇦🇮🇪🇳🇱🇮🇷🇸🇬🇲🇾
 
-🌍 From India to Ireland, Canada to Peru, our community spans the globe, uniting AI enthusiasts, learners, professionals, and curious minds. We're all about exploring the vast realms of artificial intelligence, from Machine Learning and Deep Learning to Natural Language Processing and Generative AI.
+From India to Ireland, Canada to Peru, our community spans the globe, uniting AI enthusiasts, learners, professionals, and curious minds. We're all about exploring the vast realms of artificial intelligence, from Machine Learning and Deep Learning to Natural Language Processing and Generative AI. 🌍
 
 ### About Us 🚀
 This GitHub repository serves as a central hub for our dynamic and inclusive community. Here, you'll find cutting-edge projects, resources, and collaborative initiatives across various AI domains. Our global membership is at the forefront of exchanging knowledge and fostering a rich, collaborative environment.
