@@ -1,6 +1,6 @@
-# Welcome to the AI Curious Minds Community GitHub! 🌟
+![AI Curious Minds](Resources/Images/Cover/AI_Curious_Minds_Flag.png)
 
-[AI Curious Minds](Resources/Images/Cover/AI_Curious_Minds_Flag.png)
+# Welcome to the AI Curious Minds Community GitHub! 🌟
 
 ## 🇮🇳🇨🇷🇭🇰🇵🇪🇬🇧🇦🇫🇵🇰🇨🇦🇮🇪🇳🇱🇮🇷🇸🇬🇲🇾
 
