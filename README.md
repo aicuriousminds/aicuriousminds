@@ -29,7 +29,7 @@ Dive into our Wiki for a curated list of AI resources, tutorials, and more to fu
 ### Get Involved 💬
 Join the conversation in our Discussions section, where we talk about everything from AI trends to project collaborations.
 
-### Follow us 🌐
+### Follow Us 🌐
 <p align='left'>
   <a href='https://discord.gg/pfk5ZGKa'>
     <img src='assets/social-icons/discord.png' alt='icon | Discord' width='50px'/></a>
