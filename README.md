@@ -10,7 +10,7 @@ From India to Ireland, Canada to Peru, our community spans the globe, uniting AI
 This GitHub repository serves as a central hub for our dynamic and inclusive community. Here, you'll find cutting-edge projects, resources, and collaborative initiatives across various AI domains. Our global membership is at the forefront of exchanging knowledge and fostering a rich, collaborative environment.
 
 ### Our Mission 🎯
-We aim to empower humanity for the AI-driven future, paving the way for harmonious symbiosis between humans and machines.
+We aim to empowering humanity for the AI-driven future, paving the way for harmonious symbiosis between humans and machines.
 
 ### Our Values 🌱
 
