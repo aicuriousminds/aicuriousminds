@@ -1,4 +1,4 @@
-![AI Curious Minds](assets/banner/banner-aicm-v1.1.4.png)
+![AI Curious Minds](assets/look-and-feel/banner/banner-aicm-v1.1.4.png)
 
 # Welcome to the AI Curious Minds Community GitHub! 🌟
 
@@ -32,14 +32,14 @@ Join the conversation in our Discussions section, where we talk about everything
 ### Follow Us 🌐
 <p align='left'>
   <a href='https://discord.gg/pfk5ZGKa'>
-    <img src='assets/social-icons/discord.png' alt='icon | Discord' width='50px'/></a>
+    <img src='assets/look-and-feel/icons/social-icons/color/discord.png' alt='icon | Discord' width='50px'/></a>
   <a href='https://www.linkedin.com/company/aicuriousminds'>
-    <img src='assets/social-icons/linkedin.png' alt='icon | Linkedin' width='50px'/></a>
+    <img src='assets/look-and-feel/icons/social-icons/color/linkedin.png' alt='icon | Linkedin' width='50px'/></a>
   <a href='https://twitter.com/aicuriousminds'>
-    <img src='assets/social-icons/twitter.png' alt='icon | Twitter' width='50px'/></a>
+    <img src='assets/look-and-feel/icons/social-icons/color/twitter.png' alt='icon | Twitter' width='50px'/></a>
   <a href='https://www.youtube.com/@aicuriousminds'>
-    <img src='assets/social-icons/youtube.png' alt='icon | Youtube' width='50px'/></a>
+    <img src='assets/look-and-feel/icons/social-icons/color/youtube.png' alt='icon | Youtube' width='50px'/></a>
   <a href='https://www.instagram.com/aicuriousminds'>
-    <img src='assets/social-icons/instagram.png' alt='icon | Instagram' width='50px'/></a>
+    <img src='assets/look-and-feel/icons/social-icons/color/instagram.png' alt='icon | Instagram' width='50px'/></a>
 </p>
 
