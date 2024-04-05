@@ -31,7 +31,7 @@ Join the conversation in our Discussions section, where we talk about everything
 
 ### Follow Us 🌐
 <p align='left'>
-  <a href='https://discord.gg/pfk5ZGKa'>
+  <a href='https://discord.gg/qgvwsCw293'>
     <img src='assets/look-and-feel/icons/social-networks/color/discord.png' alt='icon | Discord' width='50px'/></a>
   <a href='https://www.linkedin.com/company/aicuriousminds'>
     <img src='assets/look-and-feel/icons/social-networks/color/linkedin.png' alt='icon | Linkedin' width='50px'/></a>
